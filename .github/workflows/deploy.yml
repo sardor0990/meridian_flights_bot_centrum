@@ -9,6 +9,8 @@ jobs:
   deploy:
     runs-on: ubuntu-latest
 
+    environment: CI/CD to Synergy Server
+
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
