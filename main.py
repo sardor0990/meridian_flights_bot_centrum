@@ -227,7 +227,7 @@ async def departures_command(update: Update, context: ContextTypes.DEFAULT_TYPE)
             f"Est: {leg.get('DEPARTURE_EST_LOCAL')}\n\n"
         )
 
-    await update.message.reply_html(text.strip() or "No departures found.")
+    await update.message.reply_html(text.strip() or "No departures found hello.")
 
 
 def main():
