@@ -152,5 +152,3 @@ When adding a new project, ask:
  deploy.yml uses correct service name?
 If all yes → CI/CD will work.
 
-
-test
