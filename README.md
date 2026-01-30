@@ -151,3 +151,6 @@ When adding a new project, ask:
  GitHub Secrets added?
  deploy.yml uses correct service name?
 If all yes → CI/CD will work.
+
+
+test
